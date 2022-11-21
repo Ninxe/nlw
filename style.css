@@ -70,10 +70,14 @@ ul {
   width: 270px;
 }
 
-.card ul li {
+.card ul li a {
   display: flex;
   align-items: center;
   justify-content: space-between;
+}
+
+a {
+  text-decoration: none;
 }
 
 .card ul li + li {
