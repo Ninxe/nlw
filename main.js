@@ -31,19 +31,19 @@ document.querySelector("#app").innerHTML = `
         "wednesday",
         createGame(
           "germany",
-          "14:00",
+          "1 - 2",
           "japan",
           "https://www.google.com/search?q=world+cup+2022+games&sxsrf=ALiCzsbBRfd78jSSqmStBFFvm2B-proNlw%3A1669062663831&source=hp&ei=B-B7Y8_DL9GekdUP1PixkA0&iflsig=AJiK0e8AAAAAY3vuF5LvwurHoOaOgvYZL14NyBtHQwt2&ved=0ahUKEwiP47r5jsD7AhVRT6QEHVR8DNIQ4dUDCAg&uact=5&oq=world+cup+2022+games&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BQgAEJECOgQIABBDOgsILhCABBDHARDRAzoFCC4QgAQ6BQguEJECOg4ILhCABBDHARDRAxDUAjoHCC4Q1AIQQzoHCAAQgAQQCjoHCCMQsQIQJzoQCC4QgAQQxwEQ0QMQ1AIQCjoNCC4QxwEQ0QMQ1AIQQzoKCC4QxwEQ0QMQQzoICC4QgAQQ1AI6CAguENQCEIAEUABY1BpgtRtoBHAAeACAAZ8BiAHcE5IBBDguMTWYAQCgAQE&sclient=gws-wiz#sie=m;/g/11spnyrxp_;2;/m/030q7;ms;fp;1;;;"
         ) +
           createGame(
             "spain",
-            "17:00",
+            "7 - 0",
             "costa-rica",
             "https://www.google.com/search?q=world+cup+2022+games&sxsrf=ALiCzsbBRfd78jSSqmStBFFvm2B-proNlw%3A1669062663831&source=hp&ei=B-B7Y8_DL9GekdUP1PixkA0&iflsig=AJiK0e8AAAAAY3vuF5LvwurHoOaOgvYZL14NyBtHQwt2&ved=0ahUKEwiP47r5jsD7AhVRT6QEHVR8DNIQ4dUDCAg&uact=5&oq=world+cup+2022+games&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BQgAEJECOgQIABBDOgsILhCABBDHARDRAzoFCC4QgAQ6BQguEJECOg4ILhCABBDHARDRAxDUAjoHCC4Q1AIQQzoHCAAQgAQQCjoHCCMQsQIQJzoQCC4QgAQQxwEQ0QMQ1AIQCjoNCC4QxwEQ0QMQ1AIQQzoKCC4QxwEQ0QMQQzoICC4QgAQQ1AI6CAguENQCEIAEUABY1BpgtRtoBHAAeACAAZ8BiAHcE5IBBDguMTWYAQCgAQE&sclient=gws-wiz#sie=m;/g/11spnyqzsy;2;/m/030q7;dt;fp;1;;;"
           ) +
           createGame(
             "belgium",
-            "20:00",
+            "1 - 0",
             "canada",
             "https://www.google.com/search?q=world+cup+2022+games&sxsrf=ALiCzsbBRfd78jSSqmStBFFvm2B-proNlw%3A1669062663831&source=hp&ei=B-B7Y8_DL9GekdUP1PixkA0&iflsig=AJiK0e8AAAAAY3vuF5LvwurHoOaOgvYZL14NyBtHQwt2&ved=0ahUKEwiP47r5jsD7AhVRT6QEHVR8DNIQ4dUDCAg&uact=5&oq=world+cup+2022+games&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BQgAEJECOgQIABBDOgsILhCABBDHARDRAzoFCC4QgAQ6BQguEJECOg4ILhCABBDHARDRAxDUAjoHCC4Q1AIQQzoHCAAQgAQQCjoHCCMQsQIQJzoQCC4QgAQQxwEQ0QMQ1AIQCjoNCC4QxwEQ0QMQ1AIQQzoKCC4QxwEQ0QMQQzoICC4QgAQQ1AI6CAguENQCEIAEUABY1BpgtRtoBHAAeACAAZ8BiAHcE5IBBDguMTWYAQCgAQE&sclient=gws-wiz#sie=m;/g/11spnyvbdl;2;/m/030q7;dt;fp;1;;;"
           )
@@ -53,13 +53,13 @@ document.querySelector("#app").innerHTML = `
         "thursday",
         createGame(
           "uruguay",
-          "14:00",
+          "0 - 0",
           "south-korea",
           "https://www.google.com/search?q=world+cup+2022+games&sxsrf=ALiCzsbBRfd78jSSqmStBFFvm2B-proNlw%3A1669062663831&source=hp&ei=B-B7Y8_DL9GekdUP1PixkA0&iflsig=AJiK0e8AAAAAY3vuF5LvwurHoOaOgvYZL14NyBtHQwt2&ved=0ahUKEwiP47r5jsD7AhVRT6QEHVR8DNIQ4dUDCAg&uact=5&oq=world+cup+2022+games&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BQgAEJECOgQIABBDOgsILhCABBDHARDRAzoFCC4QgAQ6BQguEJECOg4ILhCABBDHARDRAxDUAjoHCC4Q1AIQQzoHCAAQgAQQCjoHCCMQsQIQJzoQCC4QgAQQxwEQ0QMQ1AIQCjoNCC4QxwEQ0QMQ1AIQQzoKCC4QxwEQ0QMQQzoICC4QgAQQ1AI6CAguENQCEIAEUABY1BpgtRtoBHAAeACAAZ8BiAHcE5IBBDguMTWYAQCgAQE&sclient=gws-wiz#sie=m;/g/11spny_y9v;2;/m/030q7;dt;fp;1;;;"
         ) +
           createGame(
             "portugal",
-            "17:00",
+            "3 - 2",
             "ghana",
             "https://www.google.com/search?q=world+cup+2022+games&sxsrf=ALiCzsbBRfd78jSSqmStBFFvm2B-proNlw%3A1669062663831&source=hp&ei=B-B7Y8_DL9GekdUP1PixkA0&iflsig=AJiK0e8AAAAAY3vuF5LvwurHoOaOgvYZL14NyBtHQwt2&ved=0ahUKEwiP47r5jsD7AhVRT6QEHVR8DNIQ4dUDCAg&uact=5&oq=world+cup+2022+games&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BQgAEJECOgQIABBDOgsILhCABBDHARDRAzoFCC4QgAQ6BQguEJECOg4ILhCABBDHARDRAxDUAjoHCC4Q1AIQQzoHCAAQgAQQCjoHCCMQsQIQJzoQCC4QgAQQxwEQ0QMQ1AIQCjoNCC4QxwEQ0QMQ1AIQQzoKCC4QxwEQ0QMQQzoICC4QgAQQ1AI6CAguENQCEIAEUABY1BpgtRtoBHAAeACAAZ8BiAHcE5IBBDguMTWYAQCgAQE&sclient=gws-wiz#sie=m;/g/11rq1z2nn2;2;/m/030q7;dt;fp;1;;;"
           )
