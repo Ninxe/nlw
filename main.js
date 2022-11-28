@@ -69,19 +69,19 @@ document.querySelector("#app").innerHTML = `
         "sunday",
         createGame(
           "japan",
-          "11:00",
+          "0 - 1",
           "costa-rica",
           "https://www.google.com/search?q=world+cup+2022+games&sxsrf=ALiCzsbBRfd78jSSqmStBFFvm2B-proNlw%3A1669062663831&source=hp&ei=B-B7Y8_DL9GekdUP1PixkA0&iflsig=AJiK0e8AAAAAY3vuF5LvwurHoOaOgvYZL14NyBtHQwt2&ved=0ahUKEwiP47r5jsD7AhVRT6QEHVR8DNIQ4dUDCAg&uact=5&oq=world+cup+2022+games&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BQgAEJECOgQIABBDOgsILhCABBDHARDRAzoFCC4QgAQ6BQguEJECOg4ILhCABBDHARDRAxDUAjoHCC4Q1AIQQzoHCAAQgAQQCjoHCCMQsQIQJzoQCC4QgAQQxwEQ0QMQ1AIQCjoNCC4QxwEQ0QMQ1AIQQzoKCC4QxwEQ0QMQQzoICC4QgAQQ1AI6CAguENQCEIAEUABY1BpgtRtoBHAAeACAAZ8BiAHcE5IBBDguMTWYAQCgAQE&sclient=gws-wiz#sie=m;/g/11pz0xg9v5;2;/m/030q7;dt;fp;1;;;"
         ) +
           createGame(
             "croatia",
-            "17:00",
+            "4 - 1",
             "canada",
             "https://www.google.com/search?q=world+cup+2022+games&sxsrf=ALiCzsbBRfd78jSSqmStBFFvm2B-proNlw%3A1669062663831&source=hp&ei=B-B7Y8_DL9GekdUP1PixkA0&iflsig=AJiK0e8AAAAAY3vuF5LvwurHoOaOgvYZL14NyBtHQwt2&ved=0ahUKEwiP47r5jsD7AhVRT6QEHVR8DNIQ4dUDCAg&uact=5&oq=world+cup+2022+games&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BQgAEJECOgQIABBDOgsILhCABBDHARDRAzoFCC4QgAQ6BQguEJECOg4ILhCABBDHARDRAxDUAjoHCC4Q1AIQQzoHCAAQgAQQCjoHCCMQsQIQJzoQCC4QgAQQxwEQ0QMQ1AIQCjoNCC4QxwEQ0QMQ1AIQQzoKCC4QxwEQ0QMQQzoICC4QgAQQ1AI6CAguENQCEIAEUABY1BpgtRtoBHAAeACAAZ8BiAHcE5IBBDguMTWYAQCgAQE&sclient=gws-wiz#sie=m;/g/11spnytbtg;2;/m/030q7;dt;fp;1;;;"
           ) +
           createGame(
             "spain",
-            "20:00",
+            "1 - 1",
             "germany",
             "https://www.google.com/search?q=world+cup+2022+games&sxsrf=ALiCzsbBRfd78jSSqmStBFFvm2B-proNlw%3A1669062663831&source=hp&ei=B-B7Y8_DL9GekdUP1PixkA0&iflsig=AJiK0e8AAAAAY3vuF5LvwurHoOaOgvYZL14NyBtHQwt2&ved=0ahUKEwiP47r5jsD7AhVRT6QEHVR8DNIQ4dUDCAg&uact=5&oq=world+cup+2022+games&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BQgAEJECOgQIABBDOgsILhCABBDHARDRAzoFCC4QgAQ6BQguEJECOg4ILhCABBDHARDRAxDUAjoHCC4Q1AIQQzoHCAAQgAQQCjoHCCMQsQIQJzoQCC4QgAQQxwEQ0QMQ1AIQCjoNCC4QxwEQ0QMQ1AIQQzoKCC4QxwEQ0QMQQzoICC4QgAQQ1AI6CAguENQCEIAEUABY1BpgtRtoBHAAeACAAZ8BiAHcE5IBBDguMTWYAQCgAQE&sclient=gws-wiz#sie=m;/g/11spnywqh1;2;/m/030q7;dt;fp;1;;;"
           )
@@ -91,7 +91,7 @@ document.querySelector("#app").innerHTML = `
         "monday",
         createGame(
           "south-korea",
-          "14:00",
+          "2 - 3",
           "ghana",
           "https://www.google.com/search?q=world+cup+2022+games&sxsrf=ALiCzsbBRfd78jSSqmStBFFvm2B-proNlw%3A1669062663831&source=hp&ei=B-B7Y8_DL9GekdUP1PixkA0&iflsig=AJiK0e8AAAAAY3vuF5LvwurHoOaOgvYZL14NyBtHQwt2&ved=0ahUKEwiP47r5jsD7AhVRT6QEHVR8DNIQ4dUDCAg&uact=5&oq=world+cup+2022+games&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BQgAEJECOgQIABBDOgsILhCABBDHARDRAzoFCC4QgAQ6BQguEJECOg4ILhCABBDHARDRAxDUAjoHCC4Q1AIQQzoHCAAQgAQQCjoHCCMQsQIQJzoQCC4QgAQQxwEQ0QMQ1AIQCjoNCC4QxwEQ0QMQ1AIQQzoKCC4QxwEQ0QMQQzoICC4QgAQQ1AI6CAguENQCEIAEUABY1BpgtRtoBHAAeACAAZ8BiAHcE5IBBDguMTWYAQCgAQE&sclient=gws-wiz#sie=m;/g/11pz0xnh3t;2;/m/030q7;dt;fp;1;;;"
         ) +
