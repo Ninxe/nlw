@@ -97,7 +97,7 @@ document.querySelector("#app").innerHTML = `
         ) +
           createGame(
             "portugal",
-            "20:00",
+            "2 - 0",
             "uruguay",
             "https://www.google.com/search?q=world+cup+2022+games&sxsrf=ALiCzsbBRfd78jSSqmStBFFvm2B-proNlw%3A1669062663831&source=hp&ei=B-B7Y8_DL9GekdUP1PixkA0&iflsig=AJiK0e8AAAAAY3vuF5LvwurHoOaOgvYZL14NyBtHQwt2&ved=0ahUKEwiP47r5jsD7AhVRT6QEHVR8DNIQ4dUDCAg&uact=5&oq=world+cup+2022+games&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BQgAEJECOgQIABBDOgsILhCABBDHARDRAzoFCC4QgAQ6BQguEJECOg4ILhCABBDHARDRAxDUAjoHCC4Q1AIQQzoHCAAQgAQQCjoHCCMQsQIQJzoQCC4QgAQQxwEQ0QMQ1AIQCjoNCC4QxwEQ0QMQ1AIQQzoKCC4QxwEQ0QMQQzoICC4QgAQQ1AI6CAguENQCEIAEUABY1BpgtRtoBHAAeACAAZ8BiAHcE5IBBDguMTWYAQCgAQE&sclient=gws-wiz#sie=m;/g/11rq1z5w1m;2;/m/030q7;dt;fp;1;;;"
           )
@@ -107,13 +107,13 @@ document.querySelector("#app").innerHTML = `
         "thursday",
         createGame(
           "canada",
-          "16:00",
+          "1 - 2",
           "morocco",
           "https://www.google.com/search?q=world+cup+2022+games&sxsrf=ALiCzsbBRfd78jSSqmStBFFvm2B-proNlw%3A1669062663831&source=hp&ei=B-B7Y8_DL9GekdUP1PixkA0&iflsig=AJiK0e8AAAAAY3vuF5LvwurHoOaOgvYZL14NyBtHQwt2&ved=0ahUKEwiP47r5jsD7AhVRT6QEHVR8DNIQ4dUDCAg&uact=5&oq=world+cup+2022+games&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BQgAEJECOgQIABBDOgsILhCABBDHARDRAzoFCC4QgAQ6BQguEJECOg4ILhCABBDHARDRAxDUAjoHCC4Q1AIQQzoHCAAQgAQQCjoHCCMQsQIQJzoQCC4QgAQQxwEQ0QMQ1AIQCjoNCC4QxwEQ0QMQ1AIQQzoKCC4QxwEQ0QMQQzoICC4QgAQQ1AI6CAguENQCEIAEUABY1BpgtRtoBHAAeACAAZ8BiAHcE5IBBDguMTWYAQCgAQE&sclient=gws-wiz#sie=m;/g/11rq1z3ddq;2;/m/030q7;dt;fp;1;;;"
         ) +
           createGame(
             "japan",
-            "20:00",
+            "2 - 1",
             "spain",
             "https://www.google.com/search?q=world+cup+2022+games&sxsrf=ALiCzsbBRfd78jSSqmStBFFvm2B-proNlw%3A1669062663831&source=hp&ei=B-B7Y8_DL9GekdUP1PixkA0&iflsig=AJiK0e8AAAAAY3vuF5LvwurHoOaOgvYZL14NyBtHQwt2&ved=0ahUKEwiP47r5jsD7AhVRT6QEHVR8DNIQ4dUDCAg&uact=5&oq=world+cup+2022+games&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BQgAEJECOgQIABBDOgsILhCABBDHARDRAzoFCC4QgAQ6BQguEJECOg4ILhCABBDHARDRAxDUAjoHCC4Q1AIQQzoHCAAQgAQQCjoHCCMQsQIQJzoQCC4QgAQQxwEQ0QMQ1AIQCjoNCC4QxwEQ0QMQ1AIQQzoKCC4QxwEQ0QMQQzoICC4QgAQQ1AI6CAguENQCEIAEUABY1BpgtRtoBHAAeACAAZ8BiAHcE5IBBDguMTWYAQCgAQE&sclient=gws-wiz#sie=m;/g/11pz0xg2kk;2;/m/030q7;dt;fp;1;;;"
           )
