@@ -2,7 +2,7 @@
   <img src=".github/layout.png" alt="Layout" title="Layout" />
 </div>
 
-## ✨ Technologies
+## ✨ Technologies 
 
 This project was developed with the following technologies:
 
